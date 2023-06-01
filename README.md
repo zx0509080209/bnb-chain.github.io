@@ -92,7 +92,7 @@ Using Yarn
 $ yarn run serve
 ```
 
-The website is run locally on your deault browser on http://localhost:3000.
+The website is run locally on your default browser on http://localhost:3000.
 
 
 ## Additional Notes
